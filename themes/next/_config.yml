@@ -297,17 +297,17 @@ mathjax:
 #hypercomments_id:
 
 # Gentie productKey
-#gentie_productKey:
+gentie_productKey: 31fa34cd5b474fb3ad8fbc96c3b6800b
 
 # changyan
 changyan:
   enable: false
-  appid:
-  appkey:
+  appid: cysUXhmkc
+  appkey: 3f1c53d7554650335574acd70e95d79c
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
-youyan_uid: 2128991
+#youyan_uid: 2128991
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
