@@ -1,10 +1,24 @@
 ---
-title: Markdown
+title: Markdown基础
 date: 2017-03-27 16:59:41
 categories: "关于MarkDown"
 tags: "MarkDown"
 description: Markdown基础语法，刚接触、总结得不完善
 ---
+<style type="text/css">
+    .no-border{
+        text-align: center;
+    }
+    .no-border img{
+        border:none !important;
+        margin: 0 auto !important;
+    }
+</style>
+
+<div class="no-border">
+![头图](http://ofopl9abq.bkt.clouddn.com/markdown.png)
+</div>
+
 >标题
 
     #一级标题
