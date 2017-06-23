@@ -46,9 +46,9 @@ description: 本文主要介绍Angular-Cli的相关配置和基础用法
 三
 ====
 
-使用 `ng serve` 启动项目
+使用 `ng server` 启动项目
 
-**PS:** 使用 `npm serve --prod --aot` 可以简化项目（他会压缩代码并去除掉你没有使用到的module）
+**PS:** 使用 `ng server --prod --aot` 可以简化项目（他会压缩代码并去除掉你没有使用到的module）
 
 ng generate
 ====
